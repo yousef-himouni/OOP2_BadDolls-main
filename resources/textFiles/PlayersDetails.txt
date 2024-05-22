@@ -1,0 +1,7 @@
+Name: 
+Level: 1
+Score: 0
+Character: Default
+Map: FirstMap
+Kills: 0
+Coins: 0
